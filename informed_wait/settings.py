@@ -25,7 +25,7 @@ SECRET_KEY = 'id6og7k44(g^s_a9*dal+-)b#&jg+=6ycdp$&jt_t0q5%5jh2m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['informed-wait.herokuapp.com']
 
 
 # Application definition
